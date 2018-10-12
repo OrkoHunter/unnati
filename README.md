@@ -1,2 +1,3 @@
 # unnati
-Codefundo++ idea
+
+We want to create an offline-first mobile application which caters to the needs of rural farmers for soil testing. Our app will use GPS data to gather the location info and based on a learning model, it will predict the amount of fertilizer required for a crop. Furthermore, the app will be backed by an announcement system and bi-directional online help-desk. This app will adapt to the default language of the phone and support multiple regional languages like Hindi and Bengali. Even if it will use complex algorithms for recommending fertilizers, it will be quite lightweight so as to install on a low-end phone. We will also avoid complicating the app so that user need not be familiar with the app or many features of the phone. We are highly conscious about the phone resources and will try to deliver the best results at minimum cost.
